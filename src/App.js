@@ -3,6 +3,7 @@ import Menubar from "./components/Menubar";
 import "./App.css";
 import LandingSection from "./components/LandingSection";
 import PostsSection from "./components/PostsSection";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Menubar />
       <LandingSection />
       <PostsSection />
+      <Footer />
     </>
   );
 };

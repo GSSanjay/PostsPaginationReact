@@ -1,0 +1,23 @@
+footer {
+  margin-top: 4rem;
+  background-color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  justify-content: space-between;
+  padding: 0rem 2rem;
+}
+
+footer h4 {
+  color: var(--pink-color);
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer li {
+  color: var(--blue-color);
+  list-style: none;
+  margin: 0.5rem 0rem;
+}
