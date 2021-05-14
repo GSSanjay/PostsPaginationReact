@@ -15,7 +15,7 @@ const LandingSection = () => {
           marketing insights, strategies and tips delivered straight to their
           inbox.
         </h3>
-        {/* <div className="landing-s2">
+        <div className="landing-s2">
           <input
             className="input-big"
             type="text"
@@ -24,7 +24,7 @@ const LandingSection = () => {
             placeholder="ENTER YOUR WORK EMAIL"
           />
           <button className="btn btn1 btn-big">Subscribe</button>
-        </div> */}
+        </div>
       </section>
     </>
   );
