@@ -1,0 +1,27 @@
+.posts {
+  background-color: white;
+}
+
+.posts ul {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.post {
+  list-style: none;
+  max-width: 300px;
+  background-color: var(--pink-color);
+  margin: 1rem;
+  padding: 1rem;
+  color: white;
+}
+
+.post h4 {
+  /* color: var(--blue-color); */
+  font-weight: bolder;
+  font-size: 1.5rem;
+}

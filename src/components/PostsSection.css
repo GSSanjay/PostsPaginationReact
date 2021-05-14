@@ -1,0 +1,16 @@
+.section2 {
+  /* margin: 10rem 0rem; */
+  /* width: 100vw; */
+  min-height: 500px;
+  margin: 0;
+  padding: 0;
+  background-color: var(--white-color);
+}
+
+.posts {
+  display: flex;
+}
+
+.posts-section h1 {
+  color: white;
+}

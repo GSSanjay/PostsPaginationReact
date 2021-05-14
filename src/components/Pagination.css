@@ -1,0 +1,16 @@
+.section3 {
+  padding: 2rem;
+  background-color: white;
+}
+
+.section3 button {
+  padding: 0.5rem 2.2rem;
+  margin: 0rem 0.2rem;
+  background-color: var(--blue-color);
+  color: var(--white-color);
+  transition: all 0.38s ease-in-out;
+}
+
+.section3 button:hover {
+  background-color: var(--pink-color);
+}

@@ -1,0 +1,25 @@
+.landing-section {
+  min-height: 425px;
+  width: 60%;
+  color: var(--white-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  /* padding-top: 15rem; */
+}
+
+.landing-section h1 {
+  font-size: 5rem;
+  text-align: center;
+  /* margin-bottom: 2rem; */
+}
+
+.landing-section h3 {
+  text-align: center;
+}
+
+.landing-s2 {
+  /* margin: 2rem 0rem; */
+}

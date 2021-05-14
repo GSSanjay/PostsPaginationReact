@@ -1,0 +1,29 @@
+.navbar {
+  background-color: white;
+  /* height: 90px; */
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 5rem;
+  flex-wrap: wrap;
+}
+
+.menu-items {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.menu-items li {
+  padding: 1rem;
+}
+
+.menu-items li a {
+  text-decoration: none;
+}
+
+.left img {
+  width: 80px;
+  height: 30px;
+}
